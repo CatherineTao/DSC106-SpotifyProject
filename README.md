@@ -1,4 +1,4 @@
-# DSC106-SpotifyProject
+# Spotify Visualizations Project
 
 ## Website
 This project is meant to showcase how popular music has changed throughout history.  Throughout the project we explore different musical attributes which change over time.  View and interact with the website here: https://catherinetao.github.io/SpotifyVizProject/project.html
