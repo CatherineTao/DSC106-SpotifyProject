@@ -1,4 +1,5 @@
 # Spotify Visualizations Project
+[Spotify Dataset](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks)
 
 ## Website
 This project is meant to showcase how popular music has changed throughout history.  Throughout the project we explore different musical attributes which change over time.  View and interact with the website [here](https://catherinetao.github.io/SpotifyVizProject/project.html)
