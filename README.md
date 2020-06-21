@@ -1,5 +1,6 @@
 # Spotify Visualizations Project
 View and interact [here](https://catherinetao.github.io/SpotifyVizProject/project.html)
+
 [Spotify Dataset](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks)
 
 ## Website
